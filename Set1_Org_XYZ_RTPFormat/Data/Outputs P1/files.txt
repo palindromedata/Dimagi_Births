@@ -1,0 +1,40 @@
+T2_80r_output_20180313-11h09.csv
+T2_80r_output_20180313-11h09_EFC.csv
+T2_80r_output_20180313-13h54.csv
+T2_80r_output_20180511-14h25.csv
+T2_80r_wrangler_cleaned_output_20180517-16h34.csv
+TrainSet 2 20180310_output_20180313-14h56.csv
+TrainSet 2 20180310_output_20180313-14h56_EFC.csv
+TrainSet 2 20180310_output_20180313-14h56_EFC_2.csv
+TrainSet 2 20180310_output_20180313-14h56_EFC_hand encode.csv
+TrainSet 2 20180310_output_20180313-14h56_EFC_hand encode_after_2013-06-01.csv
+TrainSet 2 20180310_output_20180313-14h56_EFC_hand encode_after_2015-06-01.csv
+my preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180212-15h46.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180212-18h35.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180213-11h57.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180213-15h13.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180213-15h13_EFC - old.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180213-15h13_EFC.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC - days clean.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC - days clean_UPLIFT.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC - days clean_UPLIFT2.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC - days clean_UPLIFT3.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC - days clean_after_2013-06-01.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC_2.csv
+preg cases period table trainSet 1 2018-02-06 - inc dob_output_20180226-16h06_EFC_old check.csv
+preg_10k_output_2018-02-07-18h38.csv
+preg_10k_output_2018-02-07-19h05.csv
+preg_10k_output_20180208-11h09 - TP10.csv
+preg_30k_output_20180208-11h22.csv
+preg_30k_output_20180209-10h41.csv
+preg_dob_80_output_20180212-17h48.csv
+preg_dob_80_output_20180213-11h15.csv
+preg_dob_80_output_20180213-13h43.csv
+preg_dob_80_output_20180213-13h43_EFC.csv
+preg_dob_80_output_20180226-10h20.csv
+preg_dob_80_output_20180308-16h28.csv
+preg_dob_80_output_20180308-16h28_EFC.csv
+trainSet_1_transformed_EFC_20180226-16h06.csv

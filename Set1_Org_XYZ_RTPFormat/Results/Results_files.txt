@@ -1,0 +1,99 @@
+total 0
+drwxr-xr-x   5 ksharpey  staff  170 17 Jul 13:42 Results_April May
+drwxr-xr-x  14 ksharpey  staff  476 10 Jul 05:29 Results_July
+-rw-r--r--   1 ksharpey  staff    0 17 Jul 14:30 Results_files.txt
+
+./Results_April May:
+total 2064
+-rw-r--r--  1 ksharpey  staff  340633  2 May 14:03 ipython - EFWeeks Test - outputT1.html
+-rw-r--r--  1 ksharpey  staff  324388  2 May 14:16 ipython - EFWeeks Test - outputT2.html
+-rw-r--r--  1 ksharpey  staff  381401 26 Apr 09:08 tue17 update.html
+
+./Results_July:
+total 552
+-rw-r--r--   1 ksharpey  staff  67186 10 Jul 01:38 CRS_1.html
+drwxr-xr-x  10 ksharpey  staff    340 10 Jul 01:38 CRS_1_files
+-rw-r--r--   1 ksharpey  staff  30508 10 Jul 01:44 CRS_2 with GBoost.html
+drwxr-xr-x   6 ksharpey  staff    204 10 Jul 01:44 CRS_2 with GBoost_files
+-rw-r--r--   1 ksharpey  staff  34476 10 Jul 03:45 CRS_3 with BLANKS.html
+drwxr-xr-x  10 ksharpey  staff    340 10 Jul 03:45 CRS_3 with BLANKS_files
+-rw-r--r--   1 ksharpey  staff  45896 10 Jul 05:08 CRS_4 with Lift.html
+drwxr-xr-x  14 ksharpey  staff    476 10 Jul 05:08 CRS_4 with Lift_files
+-rw-r--r--   1 ksharpey  staff  46077 10 Jul 05:16 CRS_4b without closedInPeriod.html
+drwxr-xr-x  14 ksharpey  staff    476 10 Jul 05:16 CRS_4b without closedInPeriod_files
+-rw-r--r--   1 ksharpey  staff  44876 10 Jul 05:29 CRS_5 with blanks removed.html
+drwxr-xr-x  14 ksharpey  staff    476 10 Jul 05:29 CRS_5 with blanks removed_files
+
+./Results_July/CRS_1_files:
+total 216
+-rw-r--r--  1 ksharpey  staff  12197 10 Jul 01:38 qt_img19660977301618693.png
+-rw-r--r--  1 ksharpey  staff  11167 10 Jul 01:38 qt_img19673471361482757.png
+-rw-r--r--  1 ksharpey  staff  13483 10 Jul 01:38 qt_img19690969058246661.png
+-rw-r--r--  1 ksharpey  staff  11377 10 Jul 01:38 qt_img19703325679157253.png
+-rw-r--r--  1 ksharpey  staff  12684 10 Jul 01:38 qt_img19717043804700677.png
+-rw-r--r--  1 ksharpey  staff  11189 10 Jul 01:38 qt_img19731479189782533.png
+-rw-r--r--  1 ksharpey  staff  12627 10 Jul 01:38 qt_img19733188586766341.png
+-rw-r--r--  1 ksharpey  staff  11065 10 Jul 01:38 qt_img19734850739109893.png
+
+./Results_July/CRS_2 with GBoost_files:
+total 112
+-rw-r--r--  1 ksharpey  staff  12321 10 Jul 01:44 qt_img20032195619979269.png
+-rw-r--r--  1 ksharpey  staff  11209 10 Jul 01:44 qt_img20056195897229317.png
+-rw-r--r--  1 ksharpey  staff  13570 10 Jul 01:44 qt_img20070940519956485.png
+-rw-r--r--  1 ksharpey  staff  11130 10 Jul 01:44 qt_img20092380996698117.png
+
+./Results_July/CRS_3 with BLANKS_files:
+total 160
+-rw-r--r--  1 ksharpey  staff  11052 10 Jul 03:45 qt_img21230723423797253.png
+-rw-r--r--  1 ksharpey  staff   7246 10 Jul 03:45 qt_img21241297633280005.png
+-rw-r--r--  1 ksharpey  staff  10839 10 Jul 03:45 qt_img21241649820598277.png
+-rw-r--r--  1 ksharpey  staff   7226 10 Jul 03:45 qt_img21259516884549637.png
+-rw-r--r--  1 ksharpey  staff  11442 10 Jul 03:45 qt_img21259796057423877.png
+-rw-r--r--  1 ksharpey  staff   7239 10 Jul 03:45 qt_img21272779743559685.png
+-rw-r--r--  1 ksharpey  staff  11446 10 Jul 03:45 qt_img21272848463036421.png
+-rw-r--r--  1 ksharpey  staff   7245 10 Jul 03:45 qt_img21273308024537093.png
+
+./Results_July/CRS_4 with Lift_files:
+total 272
+-rw-r--r--  1 ksharpey  staff  11580 10 Jul 05:08 qt_img22620046559805445.png
+-rw-r--r--  1 ksharpey  staff   9614 10 Jul 05:08 qt_img22621154661367813.png
+-rw-r--r--  1 ksharpey  staff   7246 10 Jul 05:08 qt_img22641435496939525.png
+-rw-r--r--  1 ksharpey  staff  11549 10 Jul 05:08 qt_img22641491331514373.png
+-rw-r--r--  1 ksharpey  staff   9680 10 Jul 05:08 qt_img22642101216870405.png
+-rw-r--r--  1 ksharpey  staff   7226 10 Jul 05:08 qt_img22662343397736453.png
+-rw-r--r--  1 ksharpey  staff  12630 10 Jul 05:08 qt_img22662399232311301.png
+-rw-r--r--  1 ksharpey  staff   9635 10 Jul 05:08 qt_img22663009117667333.png
+-rw-r--r--  1 ksharpey  staff   7239 10 Jul 05:08 qt_img22715862985211909.png
+-rw-r--r--  1 ksharpey  staff  12951 10 Jul 05:08 qt_img22715918819786757.png
+-rw-r--r--  1 ksharpey  staff   9776 10 Jul 05:08 qt_img22718130727944197.png
+-rw-r--r--  1 ksharpey  staff   7245 10 Jul 05:08 qt_img22719049850945541.png
+
+./Results_July/CRS_4b without closedInPeriod_files:
+total 272
+-rw-r--r--  1 ksharpey  staff  12155 10 Jul 05:16 qt_img22942031668051973.png
+-rw-r--r--  1 ksharpey  staff   9614 10 Jul 05:16 qt_img22942053142888453.png
+-rw-r--r--  1 ksharpey  staff   7246 10 Jul 05:16 qt_img22963957476098053.png
+-rw-r--r--  1 ksharpey  staff  11891 10 Jul 05:16 qt_img22964013310672901.png
+-rw-r--r--  1 ksharpey  staff   9701 10 Jul 05:16 qt_img22964404152696837.png
+-rw-r--r--  1 ksharpey  staff   7226 10 Jul 05:16 qt_img22973208835653637.png
+-rw-r--r--  1 ksharpey  staff  12613 10 Jul 05:16 qt_img22973264670228485.png
+-rw-r--r--  1 ksharpey  staff   9635 10 Jul 05:16 qt_img22973702756892677.png
+-rw-r--r--  1 ksharpey  staff   7239 10 Jul 05:16 qt_img23017167825928197.png
+-rw-r--r--  1 ksharpey  staff  12937 10 Jul 05:16 qt_img23017223660503045.png
+-rw-r--r--  1 ksharpey  staff   9776 10 Jul 05:16 qt_img23017661747167237.png
+-rw-r--r--  1 ksharpey  staff   7245 10 Jul 05:16 qt_img23017824955924485.png
+
+./Results_July/CRS_5 with blanks removed_files:
+total 272
+-rw-r--r--  1 ksharpey  staff  12371 10 Jul 05:29 qt_img23344891010482181.png
+-rw-r--r--  1 ksharpey  staff   9888 10 Jul 05:29 qt_img23345329097146373.png
+-rw-r--r--  1 ksharpey  staff   7062 10 Jul 05:29 qt_img23346411428904965.png
+-rw-r--r--  1 ksharpey  staff  12556 10 Jul 05:29 qt_img23346467263479813.png
+-rw-r--r--  1 ksharpey  staff   9912 10 Jul 05:29 qt_img23346810860863493.png
+-rw-r--r--  1 ksharpey  staff   6775 10 Jul 05:29 qt_img23348125120856069.png
+-rw-r--r--  1 ksharpey  staff  10597 10 Jul 05:29 qt_img23348180955430917.png
+-rw-r--r--  1 ksharpey  staff   9892 10 Jul 05:29 qt_img23348619042095109.png
+-rw-r--r--  1 ksharpey  staff   6829 10 Jul 05:29 qt_img23349606884573189.png
+-rw-r--r--  1 ksharpey  staff  10579 10 Jul 05:29 qt_img23349662719148037.png
+-rw-r--r--  1 ksharpey  staff   9877 10 Jul 05:29 qt_img23351810202796037.png
+-rw-r--r--  1 ksharpey  staff   6836 10 Jul 05:29 qt_img23352587591876613.png
